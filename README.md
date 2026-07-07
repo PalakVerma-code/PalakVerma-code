@@ -128,7 +128,7 @@
 
 ## 📈 Contribution Graph
 
-[![Palak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PalakVerma-code&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Palak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PalakVerma-code&theme=tokyo-night)](https://github.com/PalakVerma-code)
 
 ---
 
